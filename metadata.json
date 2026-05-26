@@ -1,0 +1,6 @@
+{
+  "name": "CraftLink",
+  "description": "Global handicraft trade platform linking US and UK buyers with suppliers, featuring logistics AI and custom product studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
